@@ -25,7 +25,7 @@
 
 <h2 style="color: #007bff;">📫 Contact Me</h2>
 <p>
-  You can connect with me through my GitHub profile or reach out via email at <a href="mailto:your-email@example.com" style="color: #007bff;">your-email@example.com</a>.
+  You can connect with me through my GitHub profile or reach out via email at <a href="mailto:your-email@example.com" style="color: #007bff;">infonaman07676@gmail.com</a>.
 </p>
 
 <h2 style="color: #007bff;">🔧 Skills</h2>
@@ -34,10 +34,10 @@
     <strong>Programming Languages:</strong> JavaScript, Python, Java, C++
   </li>
   <li style="padding: 8px 0;">
-    <strong>Frameworks:</strong> Next.js, React, Django
+    <strong>Frameworks:</strong> Next.js, React, Node.js, Express.js
   </li>
   <li style="padding: 8px 0;">
-    <strong>Tools:</strong> Git, Docker, Kubernetes, Jenkins
+    <strong>Tools:</strong> Git, Visual studio, Vercel
   </li>
   <li style="padding: 8px 0;">
     <strong>AI & Data Science:</strong> Machine Learning, Deep Learning, NLP
@@ -50,8 +50,7 @@
 <h2 style="color: #007bff;">🔗 Links</h2>
 <p>
   <a href="https://github.com/Namankumar199" style="color: #007bff;">GitHub Profile</a> |
-  <a href="https://linkedin.com/in/your-linkedin" style="color: #007bff;">LinkedIn</a> |
-  <a href="https://twitter.com/your-twitter" style="color: #007bff;">Twitter</a>
+  <a href="https://www.linkedin.com/in/naman-kumar-5916a7182/" style="color: #007bff;">LinkedIn</a> |
 </p>
 
 <!-- Markdown comments -->
